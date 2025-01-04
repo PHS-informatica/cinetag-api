@@ -2,9 +2,9 @@
 [
     {
       "id": 1,
-        "titulo": "EL CHALTÉN 01: Fotografia de Paisagem",
-        "capa": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/7f/fd/f2/glaciar-huemul.jpg?w=1200&h=-1&s=1",
-        "link": "https://youtu.be/xkCbhy4-S4M"
+        "titulo": "O labirinto do Logcat",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
     },
     {
         "id": 2,
